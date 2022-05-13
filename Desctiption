@@ -1,0 +1,96 @@
+La description
+
+Ce défi a été conçu spécifiquement comme un hackathon #ZindiWeekendz (Défi de la pollution de l'air urbain). Nous rouvrons le hackathon en tant que Knowledge Challenge, pour permettre à la communauté Zindi d'apprendre et de tester ses compétences. Pour vous aider, nous avons créé un nouvel onglet Tutoriels avec des ressources utiles de la communauté. Nous encourageons les Zindiens à partager leur code sur le forum de discussion afin que tous les membres de notre communauté puissent apprendre les uns des autres et se soutenir mutuellement.
+
+Vous avez peut-être vu des articles de presse récents indiquant que la qualité de l'air s'est améliorée grâce au COVID-19. C'est vrai pour certains endroits, mais comme toujours la vérité est un peu plus compliquée. Dans certaines parties de nombreuses villes africaines, la qualité de l'air semble se détériorer à mesure que de plus en plus de personnes restent chez elles. Pour ce défi, nous allons approfondir les données, trouver des moyens de suivre la qualité de l'air et son évolution, même dans des endroits sans capteurs au sol. Ces informations seront particulièrement utiles face à la crise actuelle, car la mauvaise qualité de l'air rend une maladie respiratoire comme le COVID-19 plus dangereuse.
+
+Nous avons collecté des données météorologiques et des observations quotidiennes du satellite Sentinel 5P qui suit divers polluants dans l'atmosphère. Votre objectif est d'utiliser ces informations pour prédire la concentration de particules PM2,5 (une mesure courante de la qualité de l'air qui nécessite normalement des capteurs au sol pour mesurer) chaque jour pour chaque ville. Les données couvrent les trois derniers mois, couvrant des centaines de villes à travers le monde.
+
+À propos de #ZindiWeekendz
+
+La communauté Zindi se joint à la lutte contre le COVID-19 ! #ZindiWeekendz sont des hackathons virtuels du week-end organisés par Zindi. Cette série de #ZindiWeekendz en avril et mai 2020 se concentre spécifiquement sur COVID-19.
+
+À une époque de confinement, de travail à distance et d'incertitude générale, #ZindiWeekendz offre aux data scientists la possibilité de continuer à développer leurs compétences tout en contribuant à des solutions d'IA pratiques et open source pour aider dans la lutte contre le COVID-19.
+
+Toutes les solutions gagnantes seront partagées en tant que bien public sur GitHub. Nous nous engageons à aider les partenaires à mettre en œuvre ces solutions et encourageons toute personne intéressée à nous contacter à zindi@zindi.africa.
+
+À propos de l'indice mondial de la qualité de l'air
+
+Le projet World Air Quality Index est un projet à but non lucratif lancé en 2007. Sa mission est de promouvoir la sensibilisation des citoyens à la pollution de l'air et de fournir une information unifiée et mondiale sur la qualité de l'air. Le projet fournit des informations transparentes sur la qualité de l'air pour plus de 100 pays, couvrant plus de 12 000 stations dans 1 000 grandes villes, via ces deux sites Web : aqicn.org et waqi.info
+
+Des règles
+
+Comme il s'agit d'un défi d'apprentissage, hormis les règles des Conditions d'utilisation, aucune autre règle particulière ne s'applique. Ce défi est ouvert à tous et n'est limité à aucun pays.
+
+Équipes et collaboration
+
+Vous pouvez participer à ce concours en tant qu'individu ou en équipe de quatre personnes maximum. Lors de la création d'une équipe, l'équipe doit avoir un nombre total de soumissions inférieur ou égal au nombre maximal de soumissions autorisées à la date de formation. Une équipe aura droit au nombre maximum de soumissions pour le concours, moins le plus grand nombre de soumissions parmi les membres de l'équipe lors de la formation de l'équipe.
+
+Plusieurs comptes par utilisateur ne sont pas autorisés, pas plus que la collaboration ou l'appartenance à plusieurs équipes. Les individus et leurs soumissions provenant de plusieurs comptes seront disqualifiés.
+
+Le code ne doit pas être partagé en privé en dehors d'une équipe. Tout code partagé doit être mis à la disposition de tous les participants au concours via la plateforme. (c'est-à-dire sur les forums de discussion).
+
+Ensembles de données et packages
+
+La solution doit utiliser uniquement des packages open source accessibles au public. Vos modèles ne doivent utiliser aucune des métadonnées fournies.
+
+Vous ne pouvez utiliser que les ensembles de données fournis pour ce concours. Les outils d'apprentissage automatique tels que automl ne sont pas autorisés.
+
+Si le défi est un défi de vision par ordinateur, les métadonnées d'image (taille de l'image, format d'image, nombre de pixels, etc.) ne peuvent pas être utilisées dans votre soumission.
+
+Vous ne pouvez utiliser que les ensembles de données fournis. Les données externes ne sont pas autorisées.
+
+Vous pouvez utiliser des modèles pré-entraînés tant qu'ils sont librement accessibles à tous.
+
+Les données utilisées dans ce concours sont la propriété exclusive de Zindi et de l'hébergeur du concours. Vous ne pouvez pas transmettre, dupliquer, publier, redistribuer ou autrement fournir ou mettre à disposition les données du concours à toute partie ne participant pas au concours (cela inclut le téléchargement des données sur un site public tel que Kaggle ou GitHub). Vous pouvez télécharger, stocker et travailler avec les données sur n'importe quelle plate-forme cloud telle que Google Colab, AWS ou similaire, tant que 1) les données restent privées et 2) cela ne contrevient pas aux règles d'utilisation de Zindi.
+
+Vous devez informer Zindi immédiatement après avoir pris connaissance de toute transmission non autorisée ou accès non autorisé aux données du concours, et travailler avec Zindi pour rectifier toute transmission ou accès non autorisé.
+
+Votre solution ne doit enfreindre les droits d'aucun tiers.
+
+Soumissions et victoire
+
+Vous pouvez faire un maximum de 10 soumissions par jour.
+
+Notez que pour être prise en compte, votre soumission doit d'abord passer le traitement. Si votre soumission échoue lors de l'étape de traitement, elle ne sera pas comptée et ne recevra pas de score ; cela ne comptera pas non plus dans votre limite de soumission quotidienne. Si vous rencontrez des problèmes avec votre dossier de soumission, la meilleure chose à faire est de demander conseil sur le forum de discussion du Concours.
+
+Notez qu'il n'y a pas de classement public/privé pour ce défi.
+
+Vous reconnaissez et acceptez que Zindi puisse, sans aucune obligation de le faire, supprimer ou disqualifier un individu, une équipe ou un compte si Zindi estime que cet individu, cette équipe ou ce compte enfreint ces règles. La participation à ce concours constitue votre acceptation de ces règles officielles du concours.
+
+Zindi se réserve également le droit de vous disqualifier et/ou de disqualifier vos soumissions de tout concours si nous estimons que vous avez enfreint les règles ou violé l'esprit du concours ou de la plateforme de toute autre manière. Les disqualifications sont indépendantes de votre position dans le classement et entièrement à la discrétion de Zindi.
+
+Veuillez consulter la FAQ et les conditions d'utilisation pour connaître les règles supplémentaires pouvant s'appliquer à ce concours. Nous nous réservons le droit de mettre à jour ces règles à tout moment.
+Évaluation
+
+La métrique d'erreur pour cette compétition est l'erreur quadratique moyenne
+
+Les soumissions doivent suivre le format de soumission de l'échantillon, avec "Place_ID X Date" dans une colonne et des prédictions pour "cible" dans l'autre.
+
+Place_ID X Date cible
+0OS9LVX X 2020-01-02 2
+0OS9LVX X 2020-01-03 91
+0OS9LVX X 2020-01-04 34
+
+Sur
+
+L'objectif de ce défi est de prédire la concentration de particules PM2,5 dans l'air chaque jour pour chaque ville. Les PM2,5 font référence aux particules atmosphériques d'un diamètre inférieur à 2,5 micromètres et sont l'un des polluants atmosphériques les plus nocifs. Les PM2,5 sont une mesure courante de la qualité de l'air qui nécessite normalement des capteurs au sol pour mesurer. Les données couvrent les trois derniers mois, couvrant des centaines de villes à travers le monde.
+
+Les données proviennent de trois sources principales :
+
+    Capteurs de qualité de l'air au sol. Ceux-ci mesurent la variable cible (concentration de particules PM2,5). En plus de la colonne cible (qui est la concentration moyenne quotidienne), il existe également des colonnes pour les lectures minimales et maximales ce jour-là, la variance des lectures et le nombre total (nombre) de lectures du capteur utilisées pour calculer la valeur cible. Ces données ne sont fournies que pour la rame - vous devez prédire la variable cible pour l'ensemble de test.
+    Le Global Forecast System (GFS) pour les données météorologiques. Humidité, température et vitesse du vent, qui peuvent être utilisées comme entrées pour votre modèle.
+    Le satellite Sentinelle 5P. Ce satellite surveille divers polluants dans l'atmosphère. Pour chaque polluant, nous avons interrogé les ensembles de données hors ligne de niveau 3 (L3) disponibles dans Google Earth Engine (vous pouvez en savoir plus sur les produits individuels ici : https://developers.google.com/earth-engine/datasets/catalog/sentinel- 5p). Pour un polluant donné, par exemple le NO2, nous fournissons toutes les données du jeu de données Sentinel 5P pour ce polluant. Cela inclut les mesures clés telles que NO2_column_number_density (une mesure de la concentration de NO2) ainsi que des métadonnées telles que l'altitude du satellite. Nous vous recommandons de vous concentrer sur les mesures clés, soit la column_number_density ou la tropospheric_X_column_number_density (qui mesure la densité plus près de la surface de la Terre).
+
+Malheureusement, ces données ne sont pas complètes à 100 %. Certains emplacements n'ont pas de relevés de capteur pour un jour particulier, et ces lignes ont donc été exclues. Il existe également des lacunes dans les données d'entrée, en particulier les données satellitaires pour CH4.
+
+Définitions des variables : découvrez les ensembles de données sur les pages suivantes :
+
+    Données météorologiques : https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25
+    Données Sentinel 5P : https://developers.google.com/earth-engine/datasets/catalog/sentinel-5p - toutes les colonnes commencent par le nom de l'ensemble de données (par exemple, L3_NO2 correspond à https://developers.google.com/earth- engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2) - regardez l'ensemble de données correspondant sur GEE pour des descriptions détaillées des bandes d'image - les noms de bande doivent correspondre à la seconde moitié des titres de colonne.
+
+Fichiers disponibles en téléchargement :
+
+    Train.csv - contient la cible et les données de support pour 349 emplacements. Il s'agit de l'ensemble de données que vous utiliserez pour entraîner votre modèle.
+    Test.csv- ressemble à Train.csv mais sans les colonnes liées à la cible et couvre 179 emplacements différents. Il s'agit de l'ensemble de données sur lequel vous appliquerez votre modèle.
+    SampleSubmission.csv - affiche le format de soumission pour ce concours, avec la colonne "Place_ID X Date" reflétant celle de Test.csv et la colonne "cible" contenant vos prédictions. L'ordre des lignes n'a pas d'importance, mais les noms de Place_ID X Date doivent être corrects.
